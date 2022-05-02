@@ -12,7 +12,8 @@ In this paper, we collect and clear up a new age dataset called Uniform Age and 
 The source images of UAGD is manually selected from APPA-REAL, UTKFace and AgeDB datasets very carefully, which means only face images that are having large poses, containing noise pixels, bearing various expressions, and under different illuminations could be chosen. We also double clean and remove the images that have wrong or not pretty sure label by crowdsourcing platform. UAGD has almost the same number of female and male images in each age, about 75 female and 75 male, total 150 face.
 ![图片](https://user-images.githubusercontent.com/8656702/166145965-ca607f7b-163a-42e0-812e-3ab3b7970841.png)
 
-## Download Link:    
+## Download Link: 
+**NOTE: Academic use ONLY**    
 Google Drive: https://drive.google.com/file/d/1-69fWaalamYy_tk9SjxwVetGPr26B58U/view?usp=sharing   
 Baidu Yun: 链接：https://pan.baidu.com/s/1foaJU5ruA4q3WuBRVf7utg 提取码：uagd   
 
